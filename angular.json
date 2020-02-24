@@ -69,6 +69,7 @@
           "options": {
             "browserTarget": "devconMap:build"
           },
+          "proxyConfig": "proxy.conf.json",
           "configurations": {
             "production": {
               "browserTarget": "devconMap:build:production"

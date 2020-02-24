@@ -1,0 +1,6 @@
+{
+  "/druid": {
+    "target": "http://50.1.0.12:8082",
+    "secure": false
+  }
+}
